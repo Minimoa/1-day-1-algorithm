@@ -1,5 +1,5 @@
 # HackerRank 
-
+solving HackerRank with python
 ## Interview Preparation Kit
 
 ### **Warm-up Challenges**
