@@ -1,5 +1,4 @@
-# HackerRank
-HackerRank 문제풀기
+# HackerRank 
 
 ## Interview Preparation Kit
 
