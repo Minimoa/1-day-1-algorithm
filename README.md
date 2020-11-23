@@ -1,12 +1,12 @@
 # HackerRank
-HackerRank 문제 푼 거
+HackerRank 문제풀기
 
 ## Interview Preparation Kit
 
 ### **Warm-up Challenges**
 
-- [x] Sales by Match
-- [x] Counting Valleys
-- [ ] Jumping on the Clouds
-- [ ] Repeated String
+- [Sales by Match](../../issues/1)
+- [Counting Valleys](../../issues/2)
+- Jumping on the Clouds
+- Repeated String
 
