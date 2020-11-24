@@ -6,6 +6,6 @@ solving HackerRank
 
 - [Sales by Match](../../issues/1)
 - [Counting Valleys](../../issues/2)
-- Jumping on the Clouds
-- Repeated String
+- [Jumping on the Clouds] (../../issues/3)
+- [Repeated String](../../issues/4)
 
