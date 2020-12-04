@@ -20,6 +20,8 @@ solving HackerRank
 - Minimum Swaps 2
 - Array Manipulation
 
+### BFS: Shortest Reach in a Graph
+- [BFS: Shortest Reach in a Graph](../../issues/9) 
 
 # 백준  
 - [2178번 미로 탐색](../../issues/7)
