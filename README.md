@@ -22,6 +22,7 @@ solving HackerRank
 
 ### BFS: Shortest Reach in a Graph
 - [BFS: Shortest Reach in a Graph](../../issues/9) 
+- [DFS: Connected Cell in a Grid] (../../issues/10) 
 
 # 백준  
 - [2178번 미로 탐색](../../issues/7)
