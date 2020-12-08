@@ -16,7 +16,7 @@ solving HackerRank
 ### Arrays
 - [2D Array - DS](../../issues/5) 
 - [Arrays: Left Rotation](../../issues/6) 
-- New Year Chaos
+- [New Year Chaos](../../issues/6) 
 - Minimum Swaps 2
 - Array Manipulation
 
