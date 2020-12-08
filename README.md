@@ -3,7 +3,6 @@
 - [백준](#백준)
 
 # HackerRank 
-solving HackerRank
 ## Interview Preparation Kit
 
 ### **Warm-up Challenges**
