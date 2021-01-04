@@ -16,7 +16,7 @@
 - [2D Array - DS](../../issues/5) 
 - [Arrays: Left Rotation](../../issues/6) 
 - [New Year Chaos](../../issues/11) 
-- Minimum Swaps 2
+- [Minimum Swaps 2](../../issues/12) 
 - Array Manipulation
 
 ### BFS: Shortest Reach in a Graph
