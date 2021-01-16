@@ -24,8 +24,7 @@
 - [DFS: Connected Cell in a Grid](../../issues/10) 
 
 ### Hash
-- [완주하지 못한 선수](../../issues/11) 
-- [DFS: Connected Cell in a Grid](../../issues/11) 
+- [완주하지 못한 선수](../../issues/13) 
 
 
 # 백준  
