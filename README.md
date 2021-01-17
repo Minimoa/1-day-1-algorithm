@@ -42,6 +42,9 @@
 | hash | [완주하지 못한 선수](../../issues/13) | 
 | hash | [전화번호 목록](../../issues/14) | 
 | hash | [위장](../../issues/15) | 
-
-
+| hash | [베스트앨범](../../issues/16) | 
+| stack & queue | [주식가격](../../issues/17) | 
+| stack & queue | [기능개발](../../issues/18) | 
+| stack & queue | [다리를 지나는 트럭](../../issues/19) | 
+| stack & queue | [프린터](../../issues/20) | 
 
