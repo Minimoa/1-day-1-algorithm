@@ -47,4 +47,5 @@
 | stack & queue | [기능개발](../../issues/18) | 
 | stack & queue | [다리를 지나는 트럭](../../issues/19) | 
 | stack & queue | [프린터](../../issues/20) | 
+| heap | [더 맵게](../../issues/21) | 
 
