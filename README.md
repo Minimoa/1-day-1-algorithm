@@ -49,4 +49,4 @@
 | stack & queue | [프린터](../../issues/20) | 
 | heap | [더 맵게](../../issues/21) | 
 | heap | [디스크 컨트롤러](../../issues/22) | 
-
+| heap | [우선순위큐](../../issues/23) | 
