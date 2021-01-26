@@ -53,4 +53,4 @@
 | sort | [K번째수](../../issues/24) | 
 | sort | [가장 큰 수](../../issues/25) | 
 | sort | [H-index](../../issues/26) |
-| bf | [모의고사](../../issues/27) | 
+| brute force | [모의고사](../../issues/27) | 
