@@ -23,7 +23,7 @@
 |Arrays | [Arrays: Left Rotation](../../issues/6)  |  
 |Arrays | [New Year Chaos](../../issues/11)  |  
 |Arrays |  [Minimum Swaps 2](../../issues/12)  |  
-|Arrays |  Array Manipulation  |    
+|Arrays |  [Array Manipulation](../../issues/30)   |    
 |BFS |  [BFS: Shortest Reach in a Graph](../../issues/9)  |    
 |DFS |  [DFS: Connected Cell in a Grid](../../issues/10)  |      
 
