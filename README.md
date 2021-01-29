@@ -54,3 +54,5 @@
 | sort | [가장 큰 수](../../issues/25) | 
 | sort | [H-index](../../issues/26) |
 | brute force | [모의고사](../../issues/27) | 
+| brute force | [소수찾기](../../issues/27) | 
+| brute force | [](../../issues/27) | 
