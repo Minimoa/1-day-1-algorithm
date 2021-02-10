@@ -56,3 +56,11 @@
 | brute force | [모의고사](../../issues/27) | 
 | brute force | [소수찾기](../../issues/28) | 
 | brute force | [카펫](../../issues/29) | 
+| greedy | [체육복](../../issues/30) | 
+| greedy | [조이스틱](../../issues/31) | 
+| greedy | [큰 수 만들기](../../issues/32) | 
+| greedy | [구명보트](../../issues/33) | 
+| greedy | [섬 연결하기](../../issues/34) | 
+| greedy | [섬 연결하기](../../issues/35) | 
+
+
