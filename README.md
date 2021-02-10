@@ -61,6 +61,6 @@
 | greedy | [큰 수 만들기](../../issues/32) | 
 | greedy | [구명보트](../../issues/33) | 
 | greedy | [섬 연결하기](../../issues/34) | 
-| greedy | [섬 연결하기](../../issues/35) | 
+| greedy | [단속카메라](../../issues/35) | 
 
 
